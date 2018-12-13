@@ -4,7 +4,6 @@ import { Component, OnInit } from '@angular/core';
 import { DataService } from '../data.service';
 // @ilias observable -- subcribe https://angular.io/guide/rx-library
  import { Observable } from 'rxjs';
-import { Config } from 'protractor';
 
 
 
